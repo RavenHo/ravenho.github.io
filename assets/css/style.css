@@ -138,10 +138,6 @@ h6 {
     font-size: 16px;
 }
 
-.bend-font-size {
-    font-size: 16px;
-}
-
 
 
 /* === FORM STYLE === */
@@ -1827,5 +1823,5 @@ Icon for all respective meta
 .exp-check-list{
     list-style-type:disc;
     list-style-position:inside;
-    font-size: 14px;
+    font-size: 16px;
 }
