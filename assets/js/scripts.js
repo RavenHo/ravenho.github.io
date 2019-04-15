@@ -18,7 +18,7 @@ Author URL: trendytheme.net
     = Vidio auto play
     = Fit Vids
     = Google Map
-
+    = test 
 */
 
 jQuery(function ($) {
